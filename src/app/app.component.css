@@ -1,0 +1,25 @@
+@media (max-width: 867px) {
+    .ccc{
+      width: 90%;
+    }
+    .ggg{
+      width: 30%;
+    }
+}
+.choice{
+  transition-duration: 400ms;
+}
+.choice:hover {
+  box-shadow:
+    0 0 10px rgb(255, 255, 255), /* Outer shadow layer */
+    0 0 40px rgba(255, 255, 255, 0.862), /* Middle shadow layer */
+    0 0 80px rgba(255, 255, 255, 0.608); /* Inner shadow layer */
+
+}
+.bbb{
+  transition-duration: 300ms;
+}
+.bbb:hover {
+  box-shadow: 0px 0px 10px;
+
+}
